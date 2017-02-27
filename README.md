@@ -1,2 +1,3 @@
 # AP_Labs
-Lab assignments done in Java
+
+Object Oriented Programming assignments done in Java for the course, Advanced Programming. 
